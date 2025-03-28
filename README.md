@@ -321,8 +321,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 - [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
 - [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-- [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-- [HFT Mario Party](https://github.com/amiruqdah/mario-party) - A remixed local multiplayer reimagining of the original Mario      Bros.
 - [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
 - [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 - [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
@@ -332,15 +330,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 - [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
-- [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep.
+- [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep. GPL
 - [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 - [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
 - [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
-- [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
+- [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth. GPL-3.0
 - [Nudoku](https://github.com/jubalh/nudoku) - Ncurses based CLI sudoku game.
 - [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game.
 - [Tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses.
-- [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
+- [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game. 
 - [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay.
 
 ### Racing
