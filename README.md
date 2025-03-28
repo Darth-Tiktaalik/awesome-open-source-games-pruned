@@ -307,7 +307,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
 - [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 - [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) - An open source game based on the source code of Pixel Dungeon by Watabou.
-- [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
 - [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 
 ### Platform
