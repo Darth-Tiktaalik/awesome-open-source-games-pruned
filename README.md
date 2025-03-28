@@ -163,7 +163,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Racing
 
 - [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game, challenge your friends on this fast-paced 3D game.
-- [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing action, play in your browser with WebGL 3D graphics.
+
 
 ### Sandbox
 
