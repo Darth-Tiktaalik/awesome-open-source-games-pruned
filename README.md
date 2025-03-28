@@ -4,7 +4,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open source games on github but curated with games with unusable licenses removed and some clarifications to save you a click on non open things
+Open source games on github but curated with games with unusable licenses removed and known license/license issues flagged to save you a click on non open things
 
 ## Contents
 
@@ -67,11 +67,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Boardgame
 
-- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
-- [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
-- [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
-- [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
-- [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript. MIT but lighting engine has unclear license
+- [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI. MIT
+- [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript. GPLv3 code with nonfree media
+- [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. MIT
+- [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch. AGPL 3.0 or later
 
 
 ### Arcade
