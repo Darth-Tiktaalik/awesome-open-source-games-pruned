@@ -109,8 +109,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.
 - [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Simple Unity 2d game that is very literally based around the theme of "change" using the classic Jeykll and Hyde story.
 - [JumpSuit](https://github.com/KordonBleu/jumpsuit) - With your awesome suit, jump from planet to planet to conquer them.
-- [Mario 5 HTML](https://github.com/robertkleffner/marioHTML5) - Infinite Mario in HTML5 JavaScript using Canvas and Audio elements.
-- [Mega Girl](https://github.com/ddionisio/game-off-2013) - The hyper-deluxed-super-mega software that beats back those malicious apps.
 - [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
 - [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Monster Wants Candy demo is a simple HTML5 game created with Phaser 2.0.7.
 - [Octocat Jump](https://github.com/ogoshen/game-off-2012) - Navigate your ever-jumping Octocat and collect stars for extra points.
