@@ -128,7 +128,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
 - [Square Off!](https://github.com/ScriptaGames/SquareOff) - Multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
 - [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJavaScript Framework.
-- [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 - [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
