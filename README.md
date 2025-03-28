@@ -235,7 +235,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [CyberPong](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 - [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 - [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame".
-- [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family.
+- [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. GPL code but nonfree media
 - [Double Damnation](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement. GPL but depends on nonfree unity engine
 
 ## Native
