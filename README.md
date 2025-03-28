@@ -1,10 +1,10 @@
-# Awesome Open Source Games with source available removed [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Open Source Games with unusable stuff removed [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open source games on github but curated with unusable licenses removed and some clarifications to save you a click on non open things
+Open source games on github but curated with games with unusable licenses removed and some clarifications to save you a click on non open things
 
 ## Contents
 
